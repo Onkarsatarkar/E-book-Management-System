@@ -1,0 +1,12 @@
+.bg-custom{
+	background-color: #9d03fc;
+}
+.navbar .nav-item .nav-link:hover{
+	background-color:white;
+	color:#9d03fc;
+	border-radius:15px;
+}
+.card-img-top{
+	height:40px;
+	width:20px;
+}
